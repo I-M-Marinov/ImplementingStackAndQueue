@@ -1,5 +1,4 @@
 ﻿using CustomStacks;
-using System;
 
 CustomStack stack = new();
 

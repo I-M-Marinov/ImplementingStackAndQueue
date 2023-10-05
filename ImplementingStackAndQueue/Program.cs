@@ -1,6 +1,4 @@
 ﻿using CustomLists;
-using System;
-using System.Collections.Generic;
 
 
 CustomList list = new();

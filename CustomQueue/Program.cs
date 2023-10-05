@@ -1,5 +1,4 @@
-﻿using System;
-using CustomQueue = CustomQueues.CustomQueue;
+﻿using CustomQueues;
 
 CustomQueue newQueue = new();
 
